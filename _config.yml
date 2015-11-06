@@ -1,0 +1,23 @@
+name: Moon Wolf
+favicon: null
+layout_spectrum: 0.0634349447209388
+typography_spectrum: 0.19118623272515833
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.19265861110761762
+  lightness: 0.716524644754827
+  saturation: 0.07625461858697236
+  rhythmicContrast: 0.9946396960876882
+purpose: []
