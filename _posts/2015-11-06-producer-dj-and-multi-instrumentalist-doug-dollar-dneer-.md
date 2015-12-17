@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Producer, DJ, and multi-instrumentalist, Doug $ (dɪə'neəer-əʊ) took a break from his roots in classical music to build a career in marketing, working with some "
-datePublished: '2015-11-06T19:55:07.950Z'
-dateModified: '2015-11-06T19:54:52.602Z'
+datePublished: '2015-12-17T04:04:21.401Z'
+dateModified: '2015-11-06T19:55:07.950Z'
 author: []
 title: ''
 authors: []
